@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Black circle -->
+  <circle cx="100" cy="100" r="100" fill="#1C1917"/>
+
+  <!-- ON FORM text -->
+  <text x="100" y="82" text-anchor="middle" font-family="'Space Grotesk', 'Arial Black', sans-serif" font-weight="700" font-size="32" fill="white" letter-spacing="2">ON FORM</text>
+
+  <!-- Water droplet - blue -->
+  <path d="M72 95 C72 95, 64 108, 64 114 C64 118.4, 67.6 122, 72 122 C76.4 122, 80 118.4, 80 114 C80 108, 72 95, 72 95Z" fill="#38BDF8"/>
+
+  <!-- Flame - orange/red -->
+  <path d="M128 122 C132.4 122, 136 118, 136 113 C136 108, 132 104, 130 100 C130 100, 128 104, 126 107 C124 104, 122 100, 120 96 C120 96, 114 106, 114 113 C114 118, 117.6 122, 122 122 C124 122, 125.5 121, 126 119 C126.5 121, 128 122, 128 122Z" fill="#F97316"/>
+
+  <!-- PLUMBING text -->
+  <text x="100" y="148" text-anchor="middle" font-family="'Space Grotesk', 'Arial Black', sans-serif" font-weight="700" font-size="28" fill="white" letter-spacing="4">PLUMBING</text>
+</svg>
